@@ -1,0 +1,17 @@
+[
+  {
+    "State": "CA",
+    "Company": "Joe's Crab Shack",
+    "NumOfEmployees": 25
+  },
+  {
+    "State": "CA",
+    "Company": "ACME Inc.",
+    "NumOfEmployees": 22
+  },
+  {
+    "State": "AZ",
+    "Company": "Jimbo's Saloon",
+    "NumOfEmployees": 15
+  }
+]
